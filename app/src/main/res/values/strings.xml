@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Course List</string>
+    <string name="app_wait">Student Waiting List</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Courses</string>
+    <string name="msg_no_notes">No Courses found!</string>
+    <string name="lbl_new_note_title">New Course</string>
+    <string name="lbl_edit_note_title">Edit Course</string>
+    <string name="hint_enter_note">Enter Course Name!</string>
+    <string name="dept">Computer Science</string>
+    <string name="activity_wait_home">Courses</string>
+    <string name="msg_no_waits">No Students found!</string>
+    <string name="lbl_new_wait_title">New Student</string>
+    <string name="lbl_edit_wait_title">Edit Student</string>
+    <string name="hint_enter_wait">Enter Student Name!</string>
+    <string name="lbl_priority">Select Priority</string>
+</resources>
